@@ -1,0 +1,18 @@
+{
+    "name": "schoolManagement",
+    "description": "Code Igniter",
+    "keywords": ["framework", "school management"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=7.1.3",
+        "ext-gd": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "scripts": {
+         "compile": [
+          "chmod 755 /temp"
+        ]
+    }
+}
